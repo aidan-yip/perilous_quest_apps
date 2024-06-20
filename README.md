@@ -1,3 +1,3 @@
-# perilous_quest_app
+# perilous_quest_apps
 
-App download repo for Perilous Quest
+App downloads server for Perilous Quest
